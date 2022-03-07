@@ -14,3 +14,16 @@ Simple Java Servlet application to create an invoice
 - ./transfer.sh Invoice.class
 4. Start the tomcat server and navigate to
 - localhost:8080/Servlets/ProductPage.html
+
+# Screenshots
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/sources.png?raw=true)
+
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/tomcat.png?raw=true)
+
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/productpage.png?raw=true)
+
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/orderpage.png?raw=true)
+
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/summarypage.png?raw=true)
+
+![alt text](https://github.com/aashishwagle55/java-servlet-simple/blob/main/images/invoicepage.png?raw=true)
